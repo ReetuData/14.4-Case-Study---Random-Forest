@@ -1,2 +1,2 @@
-# 14.4-Case-Study---Random-Forest
-RandomForest_casestudy_covid19Results
+# Case-Study--Random-Forest-Classifier
+To build a Random Forest Classifier to predict the state of the patient.
